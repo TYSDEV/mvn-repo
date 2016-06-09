@@ -1,6 +1,6 @@
 Artifacts
----------
-# xBaseJ - dBASE for Java
+=========
+### xBaseJ - dBASE for Java
 	<dependency>
 		<groupId>com.newsrx</groupId>
 		<artifactId>xbasej</artifactId>
